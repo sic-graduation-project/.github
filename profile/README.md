@@ -185,6 +185,23 @@ It is not an official Samsung product or commercial security service. Samsung an
 
 ---
 
+## Connect With Team Nexus
+
+<div align="center">
+
+[![Eng. Anas](https://img.shields.io/badge/Eng._Anas-%40devanasly-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devanasly)
+[![Eng. Amal](https://img.shields.io/badge/Eng._Amal-%40amalelhaddad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amalelhaddad)
+
+[![Eng. Buthaina](https://img.shields.io/badge/Eng._Buthaina-%40buthinaaaa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/buthinaaaa)
+[![Eng. Heba](https://img.shields.io/badge/Eng._Heba-%40hebawl-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hebawl)
+
+[![Eng. Rayan](https://img.shields.io/badge/Eng._Rayan-%40rayan--adel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rayan-adel)
+[![Eng. Sulaiman](https://img.shields.io/badge/Eng._Sulaiman-%40Sully99-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sully99)
+
+</div>
+
+---
+
 <div align="center">
 
 ### NEXUS
